@@ -1,2 +1,4 @@
 class BirdsController < ApplicationController
+
+    
 end
